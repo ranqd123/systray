@@ -1,4 +1,4 @@
-module fyne.io/systray
+module github.com/ranqd123/systray
 
 go 1.19
 
